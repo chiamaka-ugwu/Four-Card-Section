@@ -112,8 +112,6 @@ img{
         flex-flow: row wrap;
         justify-content: center;
     }
-    .text{
-    }
     .text h1{
         margin-top: 3rem;
         font-size: 1.75rem;
